@@ -17,7 +17,7 @@
   <issue>https://github.com/MobileChromeApps/cordova-plugin-google-plus-ios/issues</issue>
 
   <platform name="ios">
-    <dependency id="org.chromium.frameworks.googleopensource@1.7.1" />
+    <dependency id="cordova-plugin-google-open-source-ios" />
     <framework src="GooglePlus.framework" custom="true" />
     <framework src="AddressBook.framework" />
     <framework src="AssetsLibrary.framework" />
