@@ -1,0 +1,35 @@
+{
+  "name": "cordova-plugin-google-plus-ios",
+  "version": "1.7.2",
+  "description": "This Cordova plugin adds the Google Plus iOS framework to a project.",
+  "cordova": {
+    "id": "cordova-plugin-google-plus-ios",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MobileChromeApps/cordova-plugin-google-plus-ios.git"
+  },
+  "keywords": [
+    "google",
+    "plus",
+    "iOS",
+    "framework",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MobileChromeApps/cordova-plugin-google-plus-ios/issues"
+  },
+  "homepage": "https://github.com/MobileChromeApps/cordova-plugin-google-plus-ios"
+}
